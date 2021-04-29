@@ -1,3 +1,5 @@
+
+//https://judge.yosupo.jp/problem/range_chmin_chmax_add_range_sum
 // coded by zeffy
 #pragma GCC optimize("O3","unroll-loops","omit-frame-pointer","inline") //Optimization flags
 #pragma GCC option("arch=native","tune=native","no-zeroupper") //Enable AVX
